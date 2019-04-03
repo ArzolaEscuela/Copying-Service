@@ -1,0 +1,9 @@
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\obj\Release\Copying Solution.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\obj\Release\Copying_Solution.ProjectInstaller.resources
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\obj\Release\Copying Solution.csproj.GenerateResource.cache
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\obj\Release\Copying Solution.csproj.CoreCompileInputs.cache
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe.config
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.pdb
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\obj\Release\Copying Solution.exe
+D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\obj\Release\Copying Solution.pdb

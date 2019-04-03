@@ -1,0 +1,85 @@
+﻿Installing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Installing service School - Copying Solution...
+Service School - Copying Solution has been successfully installed.
+Creating EventLog source School - Copying Solution in log Application...
+Committing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Uninstalling assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Removing EventLog source School - Copying Solution.
+Service School - Copying Solution is being removed from the system...
+Service School - Copying Solution was successfully removed from the system.
+Attempt to stop service School - Copying Solution.
+Installing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Installing service School - Copying Solution...
+Service School - Copying Solution has been successfully installed.
+Creating EventLog source School - Copying Solution in log Application...
+Committing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Uninstalling assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Removing EventLog source School - Copying Solution.
+Service School - Copying Solution is being removed from the system...
+Service School - Copying Solution was successfully removed from the system.
+Installing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Installing service School - Copying Solution...
+Service School - Copying Solution has been successfully installed.
+Creating EventLog source School - Copying Solution in log Application...
+Committing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Uninstalling assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Removing EventLog source School - Copying Solution.
+Service School - Copying Solution is being removed from the system...
+Service School - Copying Solution was successfully removed from the system.
+Installing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Installing service School - Copying Solution...
+Service School - Copying Solution has been successfully installed.
+Creating EventLog source School - Copying Solution in log Application...
+Committing assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Uninstalling assembly 'D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.InstallLog
+   assemblypath = D:\Google Drive\School\Tec Ene-May 2019\Programacion Avanzada\11.2 - Copying Service\Copying Solution\bin\Release\Copying Solution.exe
+Removing EventLog source School - Copying Solution.
+Service School - Copying Solution is being removed from the system...
+Service School - Copying Solution was successfully removed from the system.
